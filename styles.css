@@ -5,7 +5,7 @@
 }
 
 .header{
-    min-height: 100vh;
+    min-height: 68vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(./images/OACChurch.jpg);
     background-position: center;
@@ -151,5 +151,8 @@ p{
     border-radius: 10px;
     margin-bottom: 5%;
     padding:20px 12px;
-    box-sizing: border-box;
+    box-sizing: content-box;
+}
+.bottom{
+    margin-bottom: 5%;
 }
