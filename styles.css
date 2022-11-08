@@ -84,10 +84,11 @@ nav img{
     background: #f44336;
     transition: 1s;
 }
+/*
 nav .fa{
     display: none;
 }
-/*Mobile Support*/
+/*Mobile Support
 @media (max-width: 700px){
     .text-box h1{
         font-size: 25px;
@@ -118,6 +119,7 @@ nav .fa{
         padding: 30px;
     }
 }
+*/
 
 /*DESCRIPTIOn*/
 
